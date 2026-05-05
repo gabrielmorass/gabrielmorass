@@ -22,6 +22,25 @@
 
 ---
 
+## 📄 Latest Publication
+
+<div align="center">
+
+### 🏆 [Optimizing Power Beacon Placement in WET Systems via Self-Organizing Maps](https://biblioteca.sbrt.org.br/articles/4822)
+
+*Gabriel C R Morás, Marcelo Satyro, Victoria Souto, Richard Demo Souza*
+
+**XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais — SBrT2025**
+
+[![DOI](https://img.shields.io/badge/DOI-10.14209%2Fsbrt.2025.1571145822-blue?style=for-the-badge)](https://doi.org/10.14209/sbrt.2025.1571145822)
+[![Paper](https://img.shields.io/badge/📄_Read_Paper-SBrT_Library-green?style=for-the-badge)](https://biblioteca.sbrt.org.br/articles/4822)
+
+> This paper proposes a novel solution that jointly optimizes Power Beacon placement and energy beamforming using **Self-Organizing Maps** and **K-means clustering**, reducing system charging time by up to **87%** compared to random deployment.
+
+</div>
+
+---
+
 ## 🚀 Tech Stack
 
 **Languages**
@@ -106,7 +125,6 @@
 
 | 🏅 Achievement | 📌 Details |
 |---|---|
-| 📝 SBRT Publication | *Optimizing Power Beacon Placement in WET Systems via Self-Organizing Maps* |
 | 🥇 FETIN – PHISHGUARD | 1st Place Technical Complexity (Level 3) + Best Presentation |
 | 🥈 Olimpíada Canguru | Silver Medal |
 | 🥈 Olimpíada Brasileira de Astronomia | 2× Silver, 1× Bronze |
